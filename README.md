@@ -1,4 +1,3 @@
-````markdown
 # 🎓 BSAI — Bahria University Projects & Assignments
 
 This repository contains a **structured collection of projects and assignments** completed during the **BS Artificial Intelligence (BSAI)** program at **Bahria University Islamabad**.
@@ -11,8 +10,8 @@ It includes work from **Semester 1 to Semester 8**, covering multiple domains of
 
 The repository is organized into:
 
-- 📁 **Semester-wise Assignments (1 → 8)**  
-- 📁 **Major Semester Projects**  
+* **Semester-wise Assignments (1 to 8)**
+* **Major Semester Projects**
 
 Each project folder contains its own implementation details, datasets, and instructions.
 
@@ -20,82 +19,80 @@ Each project folder contains its own implementation details, datasets, and instr
 
 ## 🚀 Major Projects
 
----
-
 ### 🩺 YOLOv8 Medical Imaging
-- Detection & segmentation of anomalies in medical images  
-- Applied on X-rays, CT scans, and ultrasound data  
+* Detection and segmentation of anomalies in medical images.
+* Applied on X-rays, CT scans, and ultrasound data.
 
-**Tech:** YOLOv8, PyTorch, OpenCV  
+**Tech:** YOLOv8, PyTorch, OpenCV
 
 **👥 Collaborators:**
-- Muhammad Taqui  
-- Babar Ali  
-- Hermen Khan  
+* Muhammad Taqui
+* Babar Ali
+* Hermen Khan
 
 ---
 
 ### 🩺 Kidney Stone Detection System
-- CNN-based classification model for detecting kidney stones  
+* CNN-based classification model for detecting kidney stones.
 
 **Features:**
-- Preprocessing & augmentation  
-- Model evaluation using standard metrics  
+* Preprocessing and augmentation.
+* Model evaluation using standard metrics.
 
 **👥 Collaborators:**
-- Muhammad Taqui  
-- Babar Ali  
+* Muhammad Taqui
+* Babar Ali
 
 ---
 
 ### 📜 Event Information Extractor
-- NLP + OCR system for extracting event details from Urdu & English documents  
+* NLP + OCR system for extracting event details from Urdu and English documents.
 
 **Pipeline:**
-- Tesseract OCR → Text preprocessing → Named Entity Recognition  
+* Tesseract OCR → Text preprocessing → Named Entity Recognition (NER).
 
-**Tech:** spaCy, NLTK, OpenCV  
+**Tech:** spaCy, NLTK, OpenCV
 
 **👥 Collaborators:**
-- Muhammad Taqui  
-- Babar Ali  
+* Muhammad Taqui
+* Babar Ali
 
 ---
 
 ### 🤖 Robotics Wall-Following Controller
-- Autonomous robot navigation in Webots simulation  
-- Uses proximity sensors for obstacle avoidance  
+* Autonomous robot navigation in Webots simulation.
+* Uses proximity sensors for obstacle avoidance.
 
 **👥 Collaborators:**
-- Muhammad Taqui  
-- Babar Ali  
-- Zain ul Abadeen  
+* Muhammad Taqui
+* Babar Ali
+* Zain ul Abadeen
 
 ---
 
 ### 🎬 Movie Theater Booking System
-- SQL-based relational database system  
+* SQL-based relational database system.
 
 **Modules:**
-- Movies, Theaters, Screens  
-- Bookings & Payments  
+* Movies, Theaters, Screens.
+* Bookings and Payments.
 
 **👥 Collaborators:**
-- Ahmed Raza  
-- Ahsan Ghafoor  
-- Muhammad Awais  
-- Muhammad Zafar  
-- Muhammad Taqui  
+* Ahmed Raza
+* Ahsan Ghafoor
+* Muhammad Awais
+* Muhammad Zafar
+* Muhammad Taqui
 
 ---
 
-## 📚 Assignments (Semester 1 → 8)
+## 📚 Assignments (Semesters 1–8)
 
 This repository also includes **preserved assignments from all semesters**, such as:
 
-- Programming exercises  
-- Lab tasks  
-- Reports and coursework  
+* Programming exercises
+* Lab tasks
+* Reports and coursework
 
 These reflect the **progression of concepts from foundational to advanced AI topics**.
 
@@ -103,38 +100,17 @@ These reflect the **progression of concepts from foundational to advanced AI top
 
 ## 🛠️ Technologies Used
 
-- **Languages:** Python, SQL  
-- **AI/ML:** PyTorch, TensorFlow  
-- **Computer Vision:** YOLOv8, OpenCV  
-- **NLP:** spaCy, NLTK, Tesseract OCR  
-- **Simulation:** Webots  
-- **Databases:** MySQL / PostgreSQL  
+* **Languages:** Python, SQL
+* **AI/ML:** PyTorch, TensorFlow
+* **Computer Vision:** YOLOv8, OpenCV
+* **NLP:** spaCy, NLTK, Tesseract OCR
+* **Simulation:** Webots
+* **Databases:** MySQL / PostgreSQL
 
 ---
 
 ## ⚙️ Usage
 
 ```bash
-git clone https://github.com/your-username/BSAI-BahriaUniversity.git
+git clone [https://github.com/your-username/BSAI-BahriaUniversity.git](https://github.com/your-username/BSAI-BahriaUniversity.git)
 cd BSAI-BahriaUniversity
-````
-
-* Navigate into specific folders to explore projects
-* Follow individual project instructions for setup and execution
-
----
-
-## 📌 Notes
-
-* All content is created for **academic and learning purposes**
-* Some datasets are externally sourced (links provided in project folders)
-* Projects may vary in complexity depending on semester level
-
----
-
-## 📜 License
-
-This repository is intended for **educational use only**.
-
-```
-```
